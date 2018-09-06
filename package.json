@@ -1,0 +1,38 @@
+{
+  "name": "biblioteca-cartao",
+  "version": "1.0.0",
+  "description": "Validador de cartão de crédito",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "nyc mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FeCaroline/biblioteca-cartao.git"
+  },
+  "keywords": [
+    "cartão",
+    "cartão",
+    "de",
+    "crédito",
+    "validador"
+  ],
+  "author": "Fernanda Caroline Batista",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FeCaroline/biblioteca-cartao/issues"
+  },
+  "homepage": "https://github.com/FeCaroline/biblioteca-cartao#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.5.0",
+    "chai": "*",
+    "mocha": "*"
+  }
+}
